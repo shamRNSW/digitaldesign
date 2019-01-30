@@ -49,7 +49,7 @@ There are 3 templates, which you can change using the 'layout' option in the pag
 You can set the site 'stage' (such as alpa/prototype/beta) in the `_config.yml` file
 
 ### Tech
-[NSW-uikit-starter](https://github.com/tjharrop/nsw-uikit-starter) is a fork of the DTA's [Uikit Starter](https://github.com/govau/uikit-starter) which, instead of being static HTML files, generates a NSW-branded theme for Jekyll, the Ruby on Rails static site builder used by github pages.
+[NSW-uikit-starter](https://github.com/tjharrop/nsw-uikit-starter) is a fork of the DTA's [Uikit Starter](https://github.com/govau/uikit-starter) which, instead of being static HTML files, generates a NSW-branded theme for Jekyll, the Ruby static site builder used by github pages.
 
 The whole Jekyll theme is available in [NSW-jekyll-theme](https://github.com/tjharrop/NSW-jekyll-theme).
 
