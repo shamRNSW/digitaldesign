@@ -18,3 +18,5 @@ plugins:
   - jekyll-feed
 
 remote_theme: tjharrop/NSW-jekyll-theme
+
+theme: jekyll-theme-tactile
